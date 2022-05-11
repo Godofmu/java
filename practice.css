@@ -1,0 +1,17 @@
+#VRAJALAL {
+    text-align: center;
+    color: #008000;
+}
+
+::placeholder{
+    font-size: large;
+    color: black;
+}
+
+    text{
+        font-size: 50px
+    }
+input {
+    padding-right: 50px;
+    padding-left: 50px;
+}
